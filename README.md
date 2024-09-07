@@ -22,5 +22,6 @@
 
 # OUTPUT:-
 
-![resume 2024-09-05 001720](https://github.com/user-attachments/assets/f537f413-cd08-4778-874e-9c16a5c9e5bc)
-![reasume 2024-09-05 001732](https://github.com/user-attachments/assets/beb6a984-330e-4060-ae41-6205b491d13b)
+![Screenshot 2024-09-08 014223](https://github.com/user-attachments/assets/2ecb072c-e8e5-43d1-9bad-c6ee2295e5d4)
+![Screenshot 2024-09-08 014208](https://github.com/user-attachments/assets/deea41bc-c9ab-4ded-9f9c-f181953d7a2f)
+
